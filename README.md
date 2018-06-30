@@ -6,7 +6,7 @@ This is a boilerplate for LilyPond music notation projects. It uses `gulp` and `
 
 Open your preferred CLI and type `lilypond -v` to check that LilyPond is installed and what version  you are running. If it is not installed, follow the command line installation instructions on [lilypond.org](http://lilypond.org/download.html).
 
-Next, run `npm install`. Once this is completed, you should be ready to go! Run `gulp watch` to compile `example.ly` as `example.pdf` each time a LilyPond file is changed and saved.
+Next, run `npm install`. Once this is completed, you should be ready to go! Run `gulp watch` to compile `example.ly` each time a LilyPond file is changed and saved.
 
 For help with LilyPond markup, see the LilyPond docs.
 
