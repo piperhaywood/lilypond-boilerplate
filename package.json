@@ -1,0 +1,10 @@
+{
+  "name": "lilypond-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Lilypond music notation projects.",
+  "author": "Piper Haywood",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-exec": "^3.0.1"
+  }
+}

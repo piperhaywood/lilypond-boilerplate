@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Whitelist
+!.gitignore
+!*.json
+!*.md
+!*.js
+!*.ly
